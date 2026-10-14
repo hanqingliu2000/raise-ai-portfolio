@@ -4,7 +4,7 @@
 
 **Designed and developed by [Hanqing Liu](https://github.com/hanqingliu2000).** This repository is an independent, runnable example of an AI-assisted data-review workbench. It uses **entirely synthetic data and simulated AI responses**. The real project repository is **private**; its code, data, internal prompts, correspondence, and evaluation benchmark are not published here.
 
-[Explore the code](src) · [Architecture](docs/architecture.md) · [Demo walkthrough](docs/demo-walkthrough.md) · [Privacy & scope](docs/privacy-and-scope.md)
+[Try the live demo](https://hanqingliu2000.github.io/raise-ai-portfolio/) · [Explore the code](src) · [Architecture](docs/architecture.md) · [Demo walkthrough](docs/demo-walkthrough.md) · [Privacy & scope](docs/privacy-and-scope.md)
 
 ## The project behind the demo
 
